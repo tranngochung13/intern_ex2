@@ -1,0 +1,7 @@
+
+Jul 03, 2019 04.03.33: Uncaught UnexpectedValueException: RecursiveDirectoryIterator::__construct(D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\storage,D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\storage): The system cannot find the file specified. (code: 2) in D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\lib\vendor\servmask\iterator\class-ai1wm-recursive-directory-iterator.php:33
+Stack trace:
+#0 D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\lib\vendor\servmask\iterator\class-ai1wm-recursive-directory-iterator.php(33): RecursiveDirectoryIterator->__construct('D:\\xampp\\htdocs...')
+#1 D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-export-controller.php(167): Ai1wm_Recursive_Directory_Iterator->__construct('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\intern_ex2\wp-includes\class-wp-hook.php(286): Ai1wm_Export_Controller::cleanup()
+#3 D:\xampp\htdocs\intern_ex2\wp-includes\class-wp-hook.ph

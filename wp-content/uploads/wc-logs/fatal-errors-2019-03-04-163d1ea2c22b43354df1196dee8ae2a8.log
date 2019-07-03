@@ -1,0 +1,10 @@
+2019-03-04T03:05:11+00:00 CRITICAL syntax error, unexpected 'widget' (T_STRING) in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php on line 673
+
+2019-03-04T03:05:25+00:00 CRITICAL syntax error, unexpected 'widget' (T_STRING) in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php on line 673
+
+2019-03-04T03:05:27+00:00 CRITICAL syntax error, unexpected 'widget' (T_STRING) in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php on line 673
+
+2019-03-04T03:05:27+00:00 CRITICAL syntax error, unexpected 'widget' (T_STRING) in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php on line 673
+
+2019-03-04T03:15:04+00:00 CRITICAL Cannot redeclare wpb_widgets_init() (previously declared in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php:340) in E:\xampp\htdocs\Wordpress\wp_ltheme\wp_ltheme_02_2019\wp_ltheme_02_2019_01\wp-content\themes\twentysixteen\functions.php on line 673
+

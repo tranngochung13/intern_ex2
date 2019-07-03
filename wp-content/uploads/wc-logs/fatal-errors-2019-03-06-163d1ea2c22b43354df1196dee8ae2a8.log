@@ -1,0 +1,14 @@
+2019-03-06T03:46:19+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-includes\wp-db.php on line 2007
+
+2019-03-06T07:47:38+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-includes\wp-db.php on line 2007
+
+2019-03-06T08:10:40+00:00 CRITICAL Maximum execution time of 30 seconds exceeded in D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-includes\wp-db.php on line 2007
+
+2019-03-06T10:23:20+00:00 CRITICAL Uncaught Error: Call to undefined function thuy_the_breadcrumb() in D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-content\themes\twentysixteen\single.php:11
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-includes\template-loader.php(77): include()
+#1 D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#2 D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\index.php(17): require('D:\\xampp\\htdocs...')
+#3 {main}
+  thrown in D:\xampp\htdocs\wordpress\elementor\et_theme\et_adapt\wp-content\themes\twentysixteen\single.php on line 11
+

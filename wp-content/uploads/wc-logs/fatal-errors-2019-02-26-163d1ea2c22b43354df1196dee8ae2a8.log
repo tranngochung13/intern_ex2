@@ -1,0 +1,2 @@
+2019-02-26T04:48:51+00:00 CRITICAL Call to undefined method WC_Product_Simple::get_variation_attributes() in E:\xampp\htdocs\Wordpress\test_wp\test_wp_10\wp-content\plugins\woocommerce\includes\class-wc-ajax.php on line 677
+

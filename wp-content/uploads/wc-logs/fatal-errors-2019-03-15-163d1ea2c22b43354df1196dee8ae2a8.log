@@ -1,0 +1,62 @@
+2019-03-15T02:47:29+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:118
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 118
+
+2019-03-15T02:47:38+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:118
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 118
+
+2019-03-15T02:49:16+00:00 CRITICAL syntax error, unexpected end of file, expecting elseif (T_ELSEIF) or else (T_ELSE) or endif (T_ENDIF) in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 135
+
+2019-03-15T02:50:17+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:122
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 122
+
+2019-03-15T02:51:14+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:119
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 119
+
+2019-03-15T02:51:16+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:119
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 119
+
+2019-03-15T02:52:10+00:00 CRITICAL Uncaught Error: Call to undefined function dimox_breadcrumbs() in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php:118
+Stack trace:
+#0 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(704): require_once()
+#1 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template.php(653): load_template('D:\\xampp\\htdocs...', true)
+#2 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\general-template.php(41): locate_template(Array, true)
+#3 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\plugins\elementor\modules\page-templates\templates\header-footer.php(9): get_header()
+#4 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-includes\template-loader.php(77): include('D:\\xampp\\htdocs...')
+#5 D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-blog-header.php(19): require_once('D:\\xampp\\htdocs...')
+#6 D:\xampp\htdocs\wor in D:\xampp\htdocs\wordpress\elementor\03_2019\wooskins\ws_glasses\wp-content\themes\et-adapt\header.php on line 118
+

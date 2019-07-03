@@ -1,0 +1,2 @@
+2019-05-09T08:43:19+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 385024 bytes) in /var/www/html/themes/ws-lobster/wp-includes/wp-db.php on line 1972
+
