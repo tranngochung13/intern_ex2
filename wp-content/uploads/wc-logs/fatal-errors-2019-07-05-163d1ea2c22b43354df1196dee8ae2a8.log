@@ -1,0 +1,2 @@
+2019-07-05T01:48:24+00:00 CRITICAL Allowed memory size of 134217728 bytes exhausted (tried to allocate 180224 bytes) in D:\xampp\htdocs\intern_ex2\wp-includes\wp-db.php on line 1972
+

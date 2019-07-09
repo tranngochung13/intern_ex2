@@ -5,3 +5,9 @@ Stack trace:
 #1 D:\xampp\htdocs\intern_ex2\wp-content\plugins\all-in-one-wp-migration\lib\controller\class-ai1wm-export-controller.php(167): Ai1wm_Recursive_Directory_Iterator->__construct('D:\\xampp\\htdocs...')
 #2 D:\xampp\htdocs\intern_ex2\wp-includes\class-wp-hook.php(286): Ai1wm_Export_Controller::cleanup()
 #3 D:\xampp\htdocs\intern_ex2\wp-includes\class-wp-hook.ph
+
+Jul 03, 2019 10.48.29: Maximum execution time of 60 seconds exceeded
+
+Jul 05, 2019 01.48.24: Allowed memory size of 134217728 bytes exhausted (tried to allocate 180224 bytes)
+
+Jul 05, 2019 09.16.27: Allowed memory size of 134217728 bytes exhausted (tried to allocate 3670016 bytes)

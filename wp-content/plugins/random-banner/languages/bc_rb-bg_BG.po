@@ -1,0 +1,360 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/random-banner\n"
+"POT-Creation-Date: 2017-05-05 14:02+0300\n"
+"PO-Revision-Date: 2017-05-05 14:12+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: bg_BG\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.0.1\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+#: include/controller/populate_content.php:28
+#: include/controller/save_update_delete.php:68
+#: include/controller/save_update_delete.php:159
+msgid "Something went wrong, Please try again"
+msgstr "Нещо се обърка, моля, опитайте отново"
+
+#: include/controller/populate_content.php:82
+msgid "Theme Based"
+msgstr "Определено от темата"
+
+#: include/controller/populate_content.php:95
+#: include/controller/populate_content.php:121
+#: include/controller/populate_content.php:226
+#: include/controller/populate_content.php:464
+msgid "Edit"
+msgstr "Редакция"
+
+#: include/controller/populate_content.php:98
+#: include/controller/populate_content.php:124
+#: include/controller/populate_content.php:227
+msgid "Delete"
+msgstr "Изтрий"
+
+#: include/controller/populate_content.php:201
+msgid "Successfully Saved"
+msgstr "Записано"
+
+#: include/controller/save_update_delete.php:39
+msgid "Successfully Added"
+msgstr "Добавено"
+
+#: include/controller/save_update_delete.php:42
+#: include/controller/save_update_delete.php:217
+msgid "Successfully Updated"
+msgstr "Обновено"
+
+#: include/controller/save_update_delete.php:60
+msgid "Successfully Deleted"
+msgstr "Изтрито"
+
+#: include/controller/save_update_delete.php:125
+msgid "Category Name Already Exist, Please Add Different Name"
+msgstr "Името на категорията вече съществува, моля, добавете различно име"
+
+#: include/controller/save_update_delete.php:135
+msgid "Something went wrong, please try again later"
+msgstr "Нещо се обърка.Моля опитайте по-късно"
+
+#: include/controller/save_update_delete.php:152
+msgid "Successfully Deleted "
+msgstr "Успешно изтрито "
+
+#: include/controller/save_update_delete.php:185
+msgid "Your Activation Code has been Successfully Verified"
+msgstr "Кодът за активиране бе успешно потвърден"
+
+#: include/controller/save_update_delete.php:194
+msgid "Invalid Transaction Details, Please try again"
+msgstr "Невалидни данни за транзакцията, Моля, опитайте отново"
+
+#. Plugin Name of the plugin/theme
+#: include/view/admin_setting.php:15 include/widget/random_banner_widget.php:19
+msgid "Random Banner"
+msgstr "Банери"
+
+#: include/view/admin_setting.php:23
+msgid "Settings"
+msgstr "Настройки"
+
+#: include/view/admin_setting.php:26
+msgid "Campaign (pro)"
+msgstr "Кампании (про)"
+
+#: include/view/admin_setting.php:29
+msgid "Statistics (pro)"
+msgstr "Статистика (про)"
+
+#: include/view/admin_setting.php:32
+msgid "Support"
+msgstr "Подръжка"
+
+#: include/view/admin_setting.php:48
+msgid "Add New Ads"
+msgstr "Добави банер"
+
+#: include/view/admin_setting.php:50
+msgid "Image Banner"
+msgstr "Банер от снимка"
+
+#: include/view/admin_setting.php:51
+msgid "Script Banner"
+msgstr "Код на банер"
+
+#: include/view/admin_setting.php:52
+msgid "SWF Banner"
+msgstr "Флаш банер"
+
+#: include/view/admin_setting.php:82
+msgid "Random Banner Support"
+msgstr "Подържа банер ротация"
+
+#: include/view/admin_setting.php:88
+msgid "PayPal Transaction ID"
+msgstr "Идентификационен номер на PayPal транзакция"
+
+#: include/view/admin_setting.php:91
+msgid "Have you paid already? Please login"
+msgstr "Платил ли си вече? Моля влезте"
+
+#: include/view/admin_setting.php:91
+msgid "here"
+msgstr "тук"
+
+#: include/view/admin_setting.php:91
+msgid "and download the pro version and update it."
+msgstr "и да изтеглите про версията и да я актуализирате."
+
+#: include/view/admin_setting.php:93
+msgid "Sorry you are not subscribed for any plan"
+msgstr "За съжаление не сте абонирани за план"
+
+#: include/view/admin_setting.php:97
+msgid "Kindly rate our plugin in "
+msgstr "Моля, качете ни плъгина в "
+
+#: include/view/admin_setting.php:97
+msgid "Please use this page for support -"
+msgstr "Моля, използвайте тази страница за поддръжка -"
+
+#: include/view/admin_setting.php:97
+msgid "Chat"
+msgstr "Чат"
+
+#: include/view/admin_setting.php:126
+msgid "Random Banner Settings"
+msgstr "Настройки на банер ротацията"
+
+#: include/view/admin_setting.php:133
+msgid "Category"
+msgstr "Категория"
+
+#: include/view/admin_setting.php:134
+msgid "Insert Banners inside the Post/Page"
+msgstr "Вмъкване на банери в публикация и страница"
+
+#: include/view/admin_setting.php:135
+msgid "Popup"
+msgstr "Изкачащ банер"
+
+#: include/view/admin_setting.php:136
+msgid "Others"
+msgstr "Други"
+
+#: include/view/admin_setting.php:142
+msgid "Add Category"
+msgstr "Добави категория"
+
+#: include/view/admin_setting.php:142
+msgid "New Category"
+msgstr "Нова категория"
+
+#: include/view/admin_setting.php:143
+msgid "Note: Please do not use space in the Category Name"
+msgstr "Забележка: Моля, не използвайте празно място в името на категорията"
+
+#: include/view/admin_setting.php:158
+msgid "Enable Banner to all Post and Pages?"
+msgstr "Разреши банер за всички Постове и страници?"
+
+#: include/view/admin_setting.php:164
+msgid "Category Name"
+msgstr "Име на категорията"
+
+#: include/view/admin_setting.php:167
+msgid "Slider"
+msgstr "Слайдер"
+
+#: include/view/admin_setting.php:170
+msgid "Autoplay"
+msgstr "Авто старт"
+
+#: include/view/admin_setting.php:173
+msgid "Delay"
+msgstr "Забавяне"
+
+#: include/view/admin_setting.php:177
+msgid "Loop"
+msgstr "Зацикли"
+
+#: include/view/admin_setting.php:180
+msgid "Banner Location"
+msgstr "Местоположение на банера"
+
+#: include/view/admin_setting.php:183
+msgid "Insert in"
+msgstr "Вмъкни в"
+
+#: include/view/admin_setting.php:189 include/view/admin_setting.php:282
+#: include/view/admin_setting.php:340
+msgid "Save"
+msgstr "Запис"
+
+#: include/view/admin_setting.php:202
+msgid "Enable Popup?"
+msgstr "Включи изкачане?"
+
+#: include/view/admin_setting.php:210
+msgid "Category to show in Popup"
+msgstr "Категория в, която да се показват изскачащите прозорци"
+
+#: include/view/admin_setting.php:220
+msgid "How many times Popup should show per Session?"
+msgstr "Колко пъти Popup трябва да се показва на сесия?"
+
+#: include/view/admin_setting.php:230
+msgid "Popup should show after"
+msgstr "Изскачащите прозорци следва да се показват след това"
+
+#: include/view/admin_setting.php:239
+msgid "Popup Loading Animated Style"
+msgstr "Изскачащ прозорец да зарежда анимационен стил"
+
+#: include/view/admin_setting.php:248
+msgid "Enable Popup Background Transparent"
+msgstr "Активиране на прозрачен изскачащ прозорец"
+
+#: include/view/admin_setting.php:257
+msgid "Popup Background Color"
+msgstr "Цвят на фона на изкачащия прозорец"
+
+#: include/view/admin_setting.php:266
+msgid "Popup Border Color"
+msgstr "Цвят на канта"
+
+#: include/view/admin_setting.php:292
+msgid "Open Ads Link in New Window"
+msgstr "Отваряне на  връзките в нов прозорец"
+
+#: include/view/admin_setting.php:300
+msgid "Currency Type"
+msgstr "Тип валута"
+
+#: include/view/admin_setting.php:309
+msgid "Disable Banners to Logged in Users?"
+msgstr "Деактивиране на банери за регистрирани потребители?"
+
+#: include/view/admin_setting.php:318
+msgid "Disable Random Banner for Mobile and Tablets?"
+msgstr "Деактивиране на  банери за мобилни устройства и таблети?"
+
+#: include/view/admin_setting.php:319 include/view/admin_setting.php:330
+msgid ""
+"Note: if checked the Random Banner will be disabled in all the location "
+"including shortcodes"
+msgstr ""
+"Забележка: ако е поставена отметка, банерите ще бъдат деактивирани "
+"навсякъде, включително и кодовете"
+
+#: include/view/admin_setting.php:329
+msgid "Disable Random Banner in all locations"
+msgstr "Забрана за банери на всички устройства"
+
+#: include/view/admin_setting.php:359
+msgid "Campaign"
+msgstr "Кампания"
+
+#: include/view/admin_setting.php:362
+msgid "Note:"
+msgstr "Бележка:"
+
+#: include/view/admin_setting.php:362
+msgid "1. Please use -1 for unlimited Impression/Click/Amount"
+msgstr "1. Моля, използвайте -1 за неограничени импресии  или клиове"
+
+#: include/view/admin_setting.php:362
+msgid "2. There is no Cost per click for Script and SWF ads"
+msgstr "2. Няма цена за кликване на банери скрип код или флаш"
+
+#: include/view/admin_setting.php:376
+msgid "Random Banner Statistics"
+msgstr "Банер статистика"
+
+#: include/view/admin_setting.php:386
+msgid "Sorry you are not subscribed for any plan to view Statistics of banners"
+msgstr ""
+"За съжаление не сте абонирани за план за преглеждане на статистика за банери"
+
+#: include/view/admin_setting.php:426
+msgid "Disable Random Banner?"
+msgstr "Забрана за банер ротация?"
+
+#: include/view/admin_setting.php:431
+msgid ""
+"If you wish to disable random banner on this content, please check this "
+"option."
+msgstr ""
+"Ако искате да деактивирате банер за това съдържание, кликни на отметката."
+
+#: include/widget/random_banner_widget.php:20
+msgid "Simple way to create a beautiful Random Banner"
+msgstr "Лесен начин за създаване на красиви банери на случаен принцип"
+
+#: include/widget/random_banner_widget.php:71
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: include/widget/random_banner_widget.php:77
+msgid "Select Category:"
+msgstr "Избери категория:"
+
+#: include/widget/random_banner_widget.php:83
+msgid "Enable Slider?"
+msgstr "Разреши ротация?"
+
+#: include/widget/random_banner_widget.php:91
+msgid "Autoplay:"
+msgstr "Авто старт:"
+
+#: include/widget/random_banner_widget.php:97
+msgid "Delay:(ms)"
+msgstr "Забавяне в (мили секунди)"
+
+#: include/widget/random_banner_widget.php:103
+msgid "Loop:"
+msgstr "Зацикли:"
+
+#. Plugin URI of the plugin/theme
+msgid "http://buffercode.com/project/random-banner/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Random Banner WordPress plugin provides users with high level of flexibility "
+"to show image banner and script ads randomly on Widgets"
+msgstr ""
+"Плъгина за банер ротация предоставя голяма гъвкавост при покзване на банерите"
+
+#. Author of the plugin/theme
+msgid "vinoth06"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://buffercode.com/"
+msgstr ""

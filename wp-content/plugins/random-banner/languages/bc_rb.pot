@@ -1,0 +1,470 @@
+# Copyright (C) 2017 Random Banner
+# This file is distributed under the same license as the Random Banner package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Random Banner 3.9.7.3\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/random-banner\n"
+"POT-Creation-Date: 2017-05-17 16:41:26+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2017-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+
+#: include/ajax/request.php:159
+msgid ""
+"You have deleted all your Random Banner tables and its options, Please "
+"uninstall the plugin now"
+msgstr ""
+
+#: include/controller/populate_content.php:28
+#: include/controller/save_update_delete.php:68
+#: include/controller/save_update_delete.php:159
+msgid "Something went wrong, Please try again"
+msgstr ""
+
+#: include/controller/populate_content.php:59
+#: include/controller/populate_content.php:130
+#: include/controller/populate_content.php:235
+#: include/controller/populate_content.php:474
+msgid "Edit"
+msgstr ""
+
+#: include/controller/populate_content.php:63
+#: include/controller/populate_content.php:133
+#: include/controller/populate_content.php:236
+msgid "Delete"
+msgstr ""
+
+#: include/controller/populate_content.php:70
+msgid "Upload URL"
+msgstr ""
+
+#: include/controller/populate_content.php:74
+msgid "Description"
+msgstr ""
+
+#: include/controller/populate_content.php:78
+msgid "External URL"
+msgstr ""
+
+#: include/controller/populate_content.php:82
+msgid "Width"
+msgstr ""
+
+#: include/controller/populate_content.php:89
+msgid "Height"
+msgstr ""
+
+#: include/controller/populate_content.php:96
+msgid "Theme Based Size"
+msgstr ""
+
+#: include/controller/populate_content.php:102 include/pages/support.php:192
+#: include/view/admin_setting.php:142
+msgid "Category"
+msgstr ""
+
+#: include/controller/populate_content.php:210
+msgid "Successfully Saved"
+msgstr ""
+
+#: include/controller/save_update_delete.php:39
+msgid "Successfully Added"
+msgstr ""
+
+#: include/controller/save_update_delete.php:42
+#: include/controller/save_update_delete.php:217
+msgid "Successfully Updated"
+msgstr ""
+
+#: include/controller/save_update_delete.php:60
+msgid "Successfully Deleted"
+msgstr ""
+
+#: include/controller/save_update_delete.php:125
+msgid "Category Name Already Exist, Please Add Different Name"
+msgstr ""
+
+#: include/controller/save_update_delete.php:135
+msgid "Something went wrong, please try again later"
+msgstr ""
+
+#: include/controller/save_update_delete.php:152
+msgid "Successfully Deleted "
+msgstr ""
+
+#: include/controller/save_update_delete.php:185
+msgid "Your Activation Code has been Successfully Verified"
+msgstr ""
+
+#: include/controller/save_update_delete.php:194
+msgid "Invalid Transaction Details, Please try again"
+msgstr ""
+
+#: include/pages/support.php:13
+msgid "Random Banner Support"
+msgstr ""
+
+#: include/pages/support.php:31
+msgid "Buy Pro Version"
+msgstr ""
+
+#: include/pages/support.php:48 include/view/admin_setting.php:32
+msgid "Support"
+msgstr ""
+
+#: include/pages/support.php:56
+msgid "Chat"
+msgstr ""
+
+#: include/pages/support.php:62
+msgid "Mail"
+msgstr ""
+
+#: include/pages/support.php:68
+msgid "Ticket[Pro]"
+msgstr ""
+
+#: include/pages/support.php:74
+msgid "Rate us"
+msgstr ""
+
+#: include/pages/support.php:85 include/view/admin_setting.php:23
+msgid "Settings"
+msgstr ""
+
+#: include/pages/support.php:90
+msgid "Plugin Version"
+msgstr ""
+
+#: include/pages/support.php:98
+msgid "PHP Version"
+msgstr ""
+
+#: include/pages/support.php:108
+msgid "WordPress Version"
+msgstr ""
+
+#: include/pages/support.php:118
+msgid "DB Version"
+msgstr ""
+
+#: include/pages/support.php:138
+msgid "How to install the Pro version"
+msgstr ""
+
+#: include/pages/support.php:142
+msgid "Please Deactivate and Uninstall the Random Banner free version"
+msgstr ""
+
+#: include/pages/support.php:143
+msgid ""
+"Hope you have received the login credentials to your PayPal email address "
+"after your\n"
+"\t\t\t\t\t\t\t\t\tpurchase."
+msgstr ""
+
+#: include/pages/support.php:144
+msgid ""
+"If not,\n"
+"\t\t\t\t\t\t\t\t\tplease contact us on live chat"
+msgstr ""
+
+#: include/pages/support.php:151
+msgid "Download the Pro version using credentials."
+msgstr ""
+
+#: include/pages/support.php:152
+msgid "Upload the file using plugins --> Add New from your Admin Dashboard."
+msgstr ""
+
+#: include/pages/support.php:153
+msgid "Activate the plugin using your Licence key"
+msgstr ""
+
+#: include/pages/support.php:154
+msgid "You can get the license key from"
+msgstr ""
+
+#: include/pages/support.php:156
+msgid "Activation"
+msgstr ""
+
+#: include/pages/support.php:159
+msgid "Apply the license key and activate it."
+msgstr ""
+
+#: include/pages/support.php:160
+msgid ""
+"If you still not able to activate the plugin, please contact me through the "
+"live chat on"
+msgstr ""
+
+#: include/pages/support.php:177
+msgid "Tables"
+msgstr ""
+
+#. #-#-#-#-#  random-banner.pot (Random Banner 3.9.7.3)  #-#-#-#-#
+#. Plugin Name of the plugin/theme
+#: include/pages/support.php:182 include/view/admin_setting.php:15
+#: include/view/admin_setting.php:16 include/view/admin_setting.php:45
+#: include/widget/random_banner_widget.php:19
+msgid "Random Banner"
+msgstr ""
+
+#: include/pages/support.php:202
+msgid "Options"
+msgstr ""
+
+#: include/pages/support.php:217
+msgid "DELETE ALL TABLES AND SETTINGS"
+msgstr ""
+
+#: include/pages/support.php:220
+msgid ""
+"Beware! Please don't use this setting unless its necessary, this will delete "
+"all your Random Banner Tables and its associated options."
+msgstr ""
+
+#: include/pages/support.php:222
+msgid "Delete All Tables and Settings"
+msgstr ""
+
+#: include/view/admin_setting.php:26
+msgid "Campaign (pro)"
+msgstr ""
+
+#: include/view/admin_setting.php:29
+msgid "Statistics (pro)"
+msgstr ""
+
+#: include/view/admin_setting.php:47
+msgid "Add New Ads"
+msgstr ""
+
+#: include/view/admin_setting.php:49
+msgid "Image Banner"
+msgstr ""
+
+#: include/view/admin_setting.php:50
+msgid "Script Banner"
+msgstr ""
+
+#: include/view/admin_setting.php:51
+msgid "SWF Banner"
+msgstr ""
+
+#: include/view/admin_setting.php:82
+msgid "Filter By"
+msgstr ""
+
+#: include/view/admin_setting.php:135
+msgid "Random Banner Settings"
+msgstr ""
+
+#: include/view/admin_setting.php:143
+msgid "Insert Banners inside the Post/Page"
+msgstr ""
+
+#: include/view/admin_setting.php:144
+msgid "Popup"
+msgstr ""
+
+#: include/view/admin_setting.php:145
+msgid "Others"
+msgstr ""
+
+#: include/view/admin_setting.php:151
+msgid "Add Category"
+msgstr ""
+
+#: include/view/admin_setting.php:151
+msgid "New Category"
+msgstr ""
+
+#: include/view/admin_setting.php:152
+msgid ""
+"Note: Please do not use space in the Category Name, use dash(-) or underscore"
+"(_)"
+msgstr ""
+
+#: include/view/admin_setting.php:167
+msgid "Enable Banner to all Post and Pages?"
+msgstr ""
+
+#: include/view/admin_setting.php:173
+msgid "Category Name"
+msgstr ""
+
+#: include/view/admin_setting.php:176
+msgid "Slider"
+msgstr ""
+
+#: include/view/admin_setting.php:179
+msgid "Autoplay"
+msgstr ""
+
+#: include/view/admin_setting.php:182
+msgid "Delay"
+msgstr ""
+
+#: include/view/admin_setting.php:186
+msgid "Loop"
+msgstr ""
+
+#: include/view/admin_setting.php:189
+msgid "Banner Location"
+msgstr ""
+
+#: include/view/admin_setting.php:192
+msgid "Insert in"
+msgstr ""
+
+#: include/view/admin_setting.php:198 include/view/admin_setting.php:291
+#: include/view/admin_setting.php:349
+msgid "Save"
+msgstr ""
+
+#: include/view/admin_setting.php:211
+msgid "Enable Popup?"
+msgstr ""
+
+#: include/view/admin_setting.php:219
+msgid "Category to show in Popup"
+msgstr ""
+
+#: include/view/admin_setting.php:229
+msgid "How many times Popup should show per Session?"
+msgstr ""
+
+#: include/view/admin_setting.php:239
+msgid "Popup should show after"
+msgstr ""
+
+#: include/view/admin_setting.php:248
+msgid "Popup Loading Animated Style"
+msgstr ""
+
+#: include/view/admin_setting.php:257
+msgid "Enable Popup Background Transparent"
+msgstr ""
+
+#: include/view/admin_setting.php:266
+msgid "Popup Background Color"
+msgstr ""
+
+#: include/view/admin_setting.php:275
+msgid "Popup Border Color"
+msgstr ""
+
+#: include/view/admin_setting.php:301
+msgid "Open Ads Link in New Window"
+msgstr ""
+
+#: include/view/admin_setting.php:309
+msgid "Currency Type"
+msgstr ""
+
+#: include/view/admin_setting.php:318
+msgid "Disable Banners to Logged in Users?"
+msgstr ""
+
+#: include/view/admin_setting.php:327
+msgid "Disable Random Banner for Mobile and Tablets?"
+msgstr ""
+
+#: include/view/admin_setting.php:328 include/view/admin_setting.php:339
+msgid ""
+"Note: if checked the Random Banner will be disabled in all the location "
+"including shortcodes"
+msgstr ""
+
+#: include/view/admin_setting.php:338
+msgid "Disable Random Banner in all locations"
+msgstr ""
+
+#: include/view/admin_setting.php:368
+msgid "Campaign"
+msgstr ""
+
+#: include/view/admin_setting.php:371
+msgid "Note:"
+msgstr ""
+
+#: include/view/admin_setting.php:371
+msgid "1. Please use -1 for unlimited Impression/Click/Amount"
+msgstr ""
+
+#: include/view/admin_setting.php:371
+msgid "2. There is no Cost per click for Script and SWF ads"
+msgstr ""
+
+#: include/view/admin_setting.php:385
+msgid "Random Banner Statistics"
+msgstr ""
+
+#: include/view/admin_setting.php:395
+msgid "Sorry you are not subscribed for any plan to view Statistics of banners"
+msgstr ""
+
+#: include/view/admin_setting.php:435
+msgid "Disable Random Banner?"
+msgstr ""
+
+#: include/view/admin_setting.php:442
+msgid ""
+"If you wish to disable random banner on this content, please check this "
+"option."
+msgstr ""
+
+#: include/widget/random_banner_widget.php:20
+msgid "Simple way to create a beautiful Random Banner"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:74
+msgid "Title:"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:80
+msgid "Select Category:"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:86
+msgid "Enable Slider?"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:94
+msgid "Autoplay:"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:100
+msgid "Delay:(ms)"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:106
+msgid "Loop:"
+msgstr ""
+
+#: include/widget/random_banner_widget.php:113
+msgid "Show Dots Under the Slider:"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+msgid "https://ifecho.com/random-banner-pro"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Random Banner WordPress plugin provides users with high level of flexibility "
+"to show image banner and script ads randomly on Widgets"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "vinoth06"
+msgstr ""
+
+#. Author URI of the plugin/theme
+msgid "http://buffercode.com/"
+msgstr ""
