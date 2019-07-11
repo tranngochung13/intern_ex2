@@ -144,3 +144,22 @@ jQuery(function($){
 
 
 })
+
+
+jQuery(window).load(function(){ 
+	jQuery("#1562811815666581493_filter li a").click(function(){
+		  jQuery("#1562811815666581493_filter li a").removeClass("selected");
+		  jQuery(this).addClass("selected");
+	      jQuery("#1562811815666581493_loading").addClass("active");
+	      
+	      jQuery.ajax({
+			url: "http://themes.themegoods.com/grandnews/demo1/wp-admin/admin-ajax.php?action=grandnews_filterable_mixed_sidebar",
+			type: "POST",
+			data: "filter="+jQuery(this).data("filter")+"&items="+jQuery(this).data("items"),
+			success:function(results) {
+				jQuery("#1562811815666581493_wrapper").html(results);
+				jQuery("#1562811815666581493_loading").removeClass("active");
+			}
+		});
+	});
+});
